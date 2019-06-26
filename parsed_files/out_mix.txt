@@ -1,0 +1,1108 @@
+[
+[{
+"leader":01142cam**2200301*a*4500",
+"fields":
+[
+	{
+		"001":"92005291"
+	},
+	{
+		"003":"DLC"
+	},
+	{
+		"005":"19930521155141.9"
+	},
+	{
+		"008":"920219s1993 caua j 000 0 eng"
+	},
+	{
+		"010":
+		{
+			"subfields":
+			[
+				{
+					"a":"92005291"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"020":
+		{
+			"subfields":
+			[
+				{
+					"a":"0152038655 :"
+				},
+				{
+					"c":""
+				},
+				{
+					"1":"5.95"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"040":
+		{
+			"subfields":
+			[
+				{
+					"a":"DLC"
+				},
+				{
+					"c":"DLC"
+				},
+				{
+					"d":"DLC"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"042":
+		{
+			"subfields":
+			[
+				{
+					"a":"lcac"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"050":
+		{
+			"subfields":
+			[
+				{
+					"a":"PS3537.A618"
+				},
+				{
+					"b":"A88 1993"
+				}],
+			"ind1":"0",
+			"ind2":"0"
+		}
+	},
+	{
+		"082":
+		{
+			"subfields":
+			[
+				{
+					"2":"20"
+				},
+				{
+					"a":"811/.52"
+				}],
+			"ind1":"0",
+			"ind2":"0"
+		}
+	},
+	{
+		"100":
+		{
+			"subfields":
+			[
+				{
+					"a":"Sandburg, Carl,"
+				},
+				{
+					"d":"1878-1967."
+				}],
+			"ind1":"1",
+			"ind2":"#"
+		}
+	},
+	{
+		"245":
+		{
+			"subfields":
+			[
+				{
+					"a":"Arithmetic /"
+				},
+				{
+					"c":"Carl Sandburg ; illustrated as an anamorphic adventure by Ted Rand."
+				}],
+			"ind1":"1",
+			"ind2":"0"
+		}
+	},
+	{
+		"250":
+		{
+			"subfields":
+			[
+				{
+					"a":"1st ed."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"260":
+		{
+			"subfields":
+			[
+				{
+					"a":"San Diego :"
+				},
+				{
+					"b":"Harcourt Brace Jovanovich,"
+				},
+				{
+					"c":"c1993."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"300":
+		{
+			"subfields":
+			[
+				{
+					"a":"1 v. (unpaged) :"
+				},
+				{
+					"b":"ill. (some col.) ;"
+				},
+				{
+					"c":"26 cm."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"500":
+		{
+			"subfields":
+			[
+				{
+					"a":"One Mylar sheet included in pocket."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"520":
+		{
+			"subfields":
+			[
+				{
+					"a":"A poem about numbers and their characteristics. Features anamorphic, or distorted, drawings which can be restored to normal by viewing from a particular angle or by viewing the image's reflection in the provided Mylar cone."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":"Arithmetic"
+				},
+				{
+					"x":"Juvenile poetry."
+				}],
+			"ind1":"#",
+			"ind2":"0"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":"Children's poetry, American."
+				}],
+			"ind1":"#",
+			"ind2":"0"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":"Arithmetic"
+				},
+				{
+					"x":"Poetry."
+				}],
+			"ind1":"#",
+			"ind2":"1"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":"American poetry."
+				}],
+			"ind1":"#",
+			"ind2":"1"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":"Visual perception."
+				}],
+			"ind1":"#",
+			"ind2":"1"
+		}
+	},
+	{
+		"700":
+		{
+			"subfields":
+			[
+				{
+					"a":"Rand, Ted,"
+				},
+				{
+					"e":"ill."
+				}],
+			"ind1":"1",
+			"ind2":"#"
+		}
+	}]
+},{
+"leader":00888cam a2200253u 4500 ",
+"fields":
+[
+	{
+		"001":"6840872"
+	},
+	{
+		"005":"20190127101238.0"
+	},
+	{
+		"007":"cr_|||||||||||"
+	},
+	{
+		"008":"820625s1917 ctuab 000 0 eng"
+	},
+	{
+		"906":
+		{
+			"subfields":
+			[
+				{
+					"a":"0 "
+				},
+				{
+					"b":"cbc "
+				},
+				{
+					"c":"premunv "
+				},
+				{
+					"d":"u "
+				},
+				{
+					"e":"ncip "
+				},
+				{
+					"f":"19 "
+				},
+				{
+					"g":"y-gencatlg"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"010":
+		{
+			"subfields":
+			[
+				{
+					"a":"17025544"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"035":
+		{
+			"subfields":
+			[
+				{
+					"9":"(DLC) 17025544"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"040":
+		{
+			"subfields":
+			[
+				{
+					"a":"DLC "
+				},
+				{
+					"c":"CarP "
+				},
+				{
+					"d":"DLC"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"050":
+		{
+			"subfields":
+			[
+				{
+					"a":"PR2810.A2 "
+				},
+				{
+					"b":"H4"
+				}],
+			"ind1":"0",
+			"ind2":"0"
+		}
+	},
+	{
+		"100":
+		{
+			"subfields":
+			[
+				{
+					"a":"Shakespeare, William, "
+				},
+				{
+					"d":"1564-1616."
+				}],
+			"ind1":"1",
+			"ind2":"_"
+		}
+	},
+	{
+		"245":
+		{
+			"subfields":
+			[
+				{
+					"a":"The first part of King Henry the Fourth,"
+				}],
+			"ind1":"1",
+			"ind2":"4"
+		}
+	},
+	{
+		"260":
+		{
+			"subfields":
+			[
+				{
+					"a":"New Haven, "
+				},
+				{
+					"b":"Yale university press; [etc., etc.] "
+				},
+				{
+					"c":"1917."
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"300":
+		{
+			"subfields":
+			[
+				{
+					"a":"4 p. "
+				},
+				{
+					"b":"l., 148 p. illus. (map) "
+				},
+				{
+					"c":"18 cm."
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"530":
+		{
+			"subfields":
+			[
+				{
+					"a":"Also available in digital form."
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"600":
+		{
+			"subfields":
+			[
+				{
+					"a":"Henry "
+				},
+				{
+					"b":"IV, "
+				},
+				{
+					"c":"King of England, "
+				},
+				{
+					"d":"1367-1413 "
+				},
+				{
+					"x":"Drama."
+				}],
+			"ind1":"0",
+			"ind2":"0"
+		}
+	},
+	{
+		"700":
+		{
+			"subfields":
+			[
+				{
+					"a":"Hemingway, Samuel Burdett, "
+				},
+				{
+					"d":"1883-1958, "
+				},
+				{
+					"e":"ed."
+				}],
+			"ind1":"1",
+			"ind2":"_"
+		}
+	},
+	{
+		"856":
+		{
+			"subfields":
+			[
+				{
+					"u":"http://hdl.loc.gov/loc.gdc/scd0001.00139980359"
+				}],
+			"ind1":"4",
+			"ind2":"1"
+		}
+	},
+	{
+		"991":
+		{
+			"subfields":
+			[
+				{
+					"b":"c-GenColl "
+				},
+				{
+					"h":"PR2810.A2 "
+				},
+				{
+					"i":"H4 "
+				},
+				{
+					"t":"Copy 1 "
+				},
+				{
+					"w":"PREM"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	},
+	{
+		"985":
+		{
+			"subfields":
+			[
+				{
+					"a":"massdig "
+				},
+				{
+					"e":"sloan"
+				}],
+			"ind1":"_",
+			"ind2":"_"
+		}
+	}]
+},{
+"leader":01471cjm a2200349 a 4500",
+"fields":
+[
+	{
+		"001":"5674874"
+	},
+	{
+		"005":"20030305110405.0"
+	},
+	{
+		"007":"sdubsmennmplu"
+	},
+	{
+		"008":"930331s1963 nyuppn eng d"
+	},
+	{
+		"035":
+		{
+			"subfields":
+			[
+				{
+					"9":" (DLC) 93707283"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"906":
+		{
+			"subfields":
+			[
+				{
+					"a":" 7 "
+				},
+				{
+					"b":" cbc "
+				},
+				{
+					"c":" copycat "
+				},
+				{
+					"d":" 4 "
+				},
+				{
+					"e":" ncip "
+				},
+				{
+					"f":" 19 "
+				},
+				{
+					"g":" y-soundrec"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"010":
+		{
+			"subfields":
+			[
+				{
+					"a":" 93707283"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"028":
+		{
+			"subfields":
+			[
+				{
+					"a":" CS 8786 "
+				},
+				{
+					"b":" Columbia"
+				}],
+			"ind1":"0",
+			"ind2":"2"
+		}
+	},
+	{
+		"035":
+		{
+			"subfields":
+			[
+				{
+					"a":" (OCoLC)13083787"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"040":
+		{
+			"subfields":
+			[
+				{
+					"a":" OClU "
+				},
+				{
+					"c":" DLC "
+				},
+				{
+					"d":" DLC"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"041":
+		{
+			"subfields":
+			[
+				{
+					"d":" eng "
+				},
+				{
+					"g":" eng"
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"042":
+		{
+			"subfields":
+			[
+				{
+					"a":" lccopycat"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"050":
+		{
+			"subfields":
+			[
+				{
+					"a":" Columbia CS 8786"
+				}],
+			"ind1":"0",
+			"ind2":"0"
+		}
+	},
+	{
+		"100":
+		{
+			"subfields":
+			[
+				{
+					"a":" Dylan, Bob, "
+				},
+				{
+					"d":" 1941-"
+				}],
+			"ind1":"1",
+			"ind2":"#"
+		}
+	},
+	{
+		"245":
+		{
+			"subfields":
+			[
+				{
+					"a":" The freewheelin' Bob Dylan "
+				},
+				{
+					"h":" [sound recording]."
+				}],
+			"ind1":"1",
+			"ind2":"4"
+		}
+	},
+	{
+		"260":
+		{
+			"subfields":
+			[
+				{
+					"a":" [New York, N.Y.] : "
+				},
+				{
+					"b":" Columbia, "
+				},
+				{
+					"c":" [1963]"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"300":
+		{
+			"subfields":
+			[
+				{
+					"a":" 1 sound disc : "
+				},
+				{
+					"b":" analog, 33 1/3 rpm, stereo. ; "
+				},
+				{
+					"c":" 12 in."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"500":
+		{
+			"subfields":
+			[
+				{
+					"a":" Songs."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"511":
+		{
+			"subfields":
+			[
+				{
+					"a":" The composer accompanying himself on the guitar ; in part with instrumental ensemble."
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"500":
+		{
+			"subfields":
+			[
+				{
+					"a":" Program notes by Nat Hentoff on container."
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"505":
+		{
+			"subfields":
+			[
+				{
+					"a":" Blowin' in the wind -- Girl from the north country -- Masters of war -- Down the highway -- Bob Dylan's blues -- A hard rain's a-gonna fall -- Don't think twice, it's all right -- Bob Dylan's dream -- Oxford town -- Talking World War III blues -- Corrina, Corrina -- Honey, just allow me one more chance -- I shall be free."
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":" Popular music "
+				},
+				{
+					"y":" 1961-1970."
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"650":
+		{
+			"subfields":
+			[
+				{
+					"a":" Blues (Music) "
+				},
+				{
+					"y":" 1961-1970."
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"856":
+		{
+			"subfields":
+			[
+				{
+					"3":" Preservation copy (limited access) "
+				},
+				{
+					"u":" http://hdl.loc.gov/loc.mbrsrs/lp0001.dyln"
+				}],
+			"ind1":"4",
+			"ind2":"1"
+		}
+	},
+	{
+		"952":
+		{
+			"subfields":
+			[
+				{
+					"a":" New"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"953":
+		{
+			"subfields":
+			[
+				{
+					"a":" TA28"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"991":
+		{
+			"subfields":
+			[
+				{
+					"b":" c-RecSound "
+				},
+				{
+					"h":" Columbia CS 8786 "
+				},
+				{
+					"w":" MUSIC"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	}]
+},{
+"leader":",
+"fields":
+[
+	{
+		"001":
+		{
+			"subfields":
+			[
+				{
+					"7":"ba"
+				},
+				{
+					"a":"i"
+				},
+				{
+					"b":"a"
+				},
+				{
+					"c":"m"
+				},
+				{
+					"d":"0"
+				},
+				{
+					"e":"6172"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"100":
+		{
+			"subfields":
+			[
+				{
+					"b":"d"
+				},
+				{
+					"c":"1941"
+				},
+				{
+					"h":"scr"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"101":
+		{
+			"subfields":
+			[
+				{
+					"a":"eng"
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"102":
+		{
+			"subfields":
+			[
+				{
+					"a":"usa"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"200":
+		{
+			"subfields":
+			[
+				{
+					"a":"The Calculi of Lambda-Conversion"
+				},
+				{
+					"e":"Alonzo Church"
+				}],
+			"ind1":"0",
+			"ind2":"#"
+		}
+	},
+	{
+		"210":
+		{
+			"subfields":
+			[
+				{
+					"a":"Princeton"
+				},
+				{
+					"c":"Princeton University"
+				},
+				{
+					"d":"1941"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"215":
+		{
+			"subfields":
+			[
+				{
+					"a":"2+82 str."
+				},
+				{
+					"d":"25 cm"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"225":
+		{
+			"subfields":
+			[
+				{
+					"a":"Annals of Mathematics Studies"
+				},
+				{
+					"v":"6"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"610":
+		{
+			"subfields":
+			[
+				{
+					"a":"Verovatnoća i statistika"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"675":
+		{
+			"subfields":
+			[
+				{
+					"a":"519.2"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	},
+	{
+		"700":
+		{
+			"subfields":
+			[
+				{
+					"4":"070"
+				},
+				{
+					"a":"Church"
+				},
+				{
+					"b":"Alonzo"
+				}],
+			"ind1":"#",
+			"ind2":"1"
+		}
+	},
+	{
+		"992":
+		{
+			"subfields":
+			[
+				{
+					"b":"cralex9702-old-l02"
+				}],
+			"ind1":"#",
+			"ind2":"#"
+		}
+	}]
+}]
+]
